@@ -5,7 +5,7 @@
 </a>
 
 ### 👨‍💻 About Me
-- 🎓 BCA in AI & Data Science @ Belsand
+- 🎓 BCA in AI & Data Science @ SAGE university
 - 🌱 Learning Python, AI, Machine Learning
 - 💡 Passionate about Building Cool Stuff with AI
 - 🎯 Goal: To become a Professional AI Developer
