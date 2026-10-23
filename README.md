@@ -25,3 +25,5 @@
 ### 📫 Connect
 [![GitHub](https://img.shields.io/badge/GitHub-ayush15--5-black?style=flat&logo=github)](https://github.com/ayush15-5)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush15-5&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=ayush15-5&show_icons=true&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayush15-5&theme=tokyonight)
