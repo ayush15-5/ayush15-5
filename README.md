@@ -5,10 +5,6 @@
 </a>
 
 ### 👨‍💻 About Me
-BCA AI & Data Science Student | Passionate about AI, Python & Building Cool Stuff
-
-
-### 👨‍💻 About Me
 - 🎓 BCA in AI & Data Science @ Belsand
 - 🌱 Learning Python, AI, Machine Learning
 - 💡 Passionate about Building Cool Stuff with AI
