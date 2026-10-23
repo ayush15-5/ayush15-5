@@ -8,7 +8,6 @@
 BCA AI & Data Science Student | Passionate about AI, Python & Building Cool Stuff
 
 ### 🎨 ASCII ME
-### 🎨 ASCII ME
 ```
 @@@@@@@@@@@@@@@@@%#*+=-::-+*%@@@@@@@@@@@@@@@@
 @@@@@@%#*+=-------..      .:-=+#%@@@@@@@@@@@@@
