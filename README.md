@@ -20,5 +20,3 @@
 ### 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=ayush15-5&show_icons=true&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayush15-5&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush15-5&layout=compact&theme=tokyonight)
-
