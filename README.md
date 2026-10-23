@@ -7,10 +7,6 @@
 ### 👨‍💻 About Me
 BCA AI & Data Science Student | Passionate about AI, Python & Building Cool Stuff
 
-### 🎨 ASCII ME
-![Banner](banner.png)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39D2C0&width=600&lines=BCA+AI+%26+Data+Science+Student;Aspiring+AI+Developer;Python+%7C+AI+%7C+Data+Science;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ### 👨‍💻 About Me
 - 🎓 BCA in AI & Data Science @ Belsand
